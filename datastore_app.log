@@ -1,0 +1,13 @@
+01-Dec-20 12:25:25 - root - ERROR - Key's datatype should be String
+01-Dec-20 12:25:25 - root - ERROR - Key | test | already exist , value - {'employee': 'Mohammed', 'status': 'fresher', 'role': 'App Developer'} 
+01-Dec-20 12:25:25 - root - ERROR - Key's datatype should be String
+01-Dec-20 12:25:25 - root - ERROR - Value's datatype should be JSON object (Dict)
+01-Dec-20 12:25:25 - root - ERROR - Key | 10 | not found for client - Thowfiq 
+01-Dec-20 12:25:25 - root - ERROR - Sanmania - Client_file_doesnot_exist
+01-Dec-20 12:25:56 - root - ERROR - TTL Value for the Key - Executive expired for the client - Thowfiq
+01-Dec-20 12:25:56 - root - ERROR - For key | test | value - is deleted
+01-Dec-20 12:25:56 - root - ERROR - For key | World is in danger so takecare | value - is deleted
+01-Dec-20 12:25:56 - root - ERROR - Temenos - Client_file_doesnot_exist
+01-Dec-20 12:25:56 - root - ERROR - TTL Value for the Key - Executive expired for the client - Thowfiq
+01-Dec-20 12:25:57 - root - ERROR - Key | test | already exist , value - {'employee': 'Mohammed', 'status': 'fresher', 'role': 'App Developer'} 
+01-Dec-20 12:25:57 - root - ERROR - Delete Operation Failed - Data Dumping failed
