@@ -61,7 +61,7 @@ def delete(s):
 
 
 def create_2(s):
-	print(m.create("sherlock", s.key, s.value_json_type)+"\n")
+	print(m.create("Steve", s.key, s.value_json_type)+"\n")
 
 
 def append_2(s):
