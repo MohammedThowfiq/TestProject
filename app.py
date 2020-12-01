@@ -89,7 +89,7 @@ if __name__ == "__main__":
     print("\n--------------- Thread-Safe Code Test ---------------\n")
    
     t1 = threading.Thread(target=create_2, args=(obj,)) 
-    t2 = threading.Thread(target=append_2, args=(obj,)) 
+    t2 = threading.Thread(target=delete_2, args=(obj,)) 
   
     t1.start() 
     t2.start() 
