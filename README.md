@@ -1,6 +1,10 @@
 # TestProject
-# 1. Download the project
-# 2. Open it in Spyder IDE
-# 3. Install cachetools library by executing this command (pip install cachetools)
-# 4. Execute app.py file in Spyder IDE
-# Cheers.....
+**This project is coded in Spyder IDE and the version of python is 3.0+**
+**Steps to be followed for successfull execution**
+## 1. Download the project
+## 2. Install the package manager [pip](https://pip.pypa.io/en/stable/) to install cachetools
+    pip install cachetools
+## 3. To run app.py file 
+    python app.py
+## Cheers.....
+
